@@ -1,0 +1,14 @@
+TP-JAVA/
+├── Employes/
+│   ├── ManutARisque.java
+│   ├── Manutentionnaire.java
+│   ├── ProdARisque.java
+│   ├── Producteur.java
+│   ├── Representant.java
+│   └── Vendeur.java
+├── EmployeTraitInterfaces/
+│   └── RPrime.java
+├── EmployeType/
+│   ├── Employee.java
+│   └── EmployeeCA.java
+└── Salaires.java
